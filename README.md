@@ -1,5 +1,5 @@
 <div align="center">
-# Debian Kde Support
+	Debian Kde Support
 </div>
 
 <div align="center">
