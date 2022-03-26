@@ -1,6 +1,6 @@
 # <div align="center"> Debian Kde Support </div>
  
-<div align="center"> <img src="assets/1.png"> </div>
+<div align="center"> <img src="assets/1.png" width="500" height="500"> </div>
 	
 <div align="center">
 	
