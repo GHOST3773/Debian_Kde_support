@@ -3,7 +3,7 @@ Debian Kde Support
 </div>
 
 <div align="center">
-	<a href="https://github.com/th-ch/youtube-music/releases/latest">
+	<a href="https://github.com/th-ch/releases/latest">
 		<img src="assets/1194296.webp">
 	</a>
 </div>
@@ -18,4 +18,8 @@ Debian Kde Support
  [![GitHub All Releases](https://img.shields.io/github/downloads/th-ch/total?style=for-the-badge&logo=)]()
  [![AUR](https://img.shields.io/aur/version/?color=blueviolet&style=for-the-badge&logo=)]()
 
+</div>
+
+<div align="center">
+Summary 
 </div>
