@@ -1,6 +1,6 @@
 # <div align="center"> Debian Kde Support </div>
  
-<div align="center"> <a href="https://github.com/th-ch/releases/latest"> <img src="assets/1194296.webp"> </a> </div>
+<div align="center"> <img src="assets/1.png"> </div>
 	
 <div align="center">
 	
