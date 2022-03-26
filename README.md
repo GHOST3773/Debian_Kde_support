@@ -2,7 +2,6 @@
 
 </div>
 
-![Screenshot](web/screenshot.jpg "Screenshot")
 
 <div align="center">
 	<a href="https://github.com/th-ch/youtube-music/releases/latest">
