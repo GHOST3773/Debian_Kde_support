@@ -17,3 +17,26 @@
 
 
 # <div align="center"> Summary </div>
+
+<div align="center"> 
+
+**TITLE**
+   
+}--|paragraph 1|--{
+
+}--|paragraph 2|--{
+
+}--|paragraph 3|--{
+
+}--|paragraph 4|--{
+
+}--|paragraph 5|--{
+
+}--|paragraph 6|--{
+
+**TEST**
+	
+test
+
+test
+
